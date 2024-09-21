@@ -1,2 +1,2 @@
 # mlzoomcamp
-Repository to follo MLZoomcamp Course
+Repository to follow MLZoomcamp Course
